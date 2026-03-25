@@ -75,23 +75,6 @@ This project showcases an interactive **Sales & Profit Performance Dashboard** b
 
 ---
 
-## 📌 Project Structure
-
-```
-📁 Tableau-Sales-Dashboard
-   ├── dashboard.png
-   ├── Sales_Dashboard.twbx
-   └── README.md
-```
-
----
-
-## 🌐 Live Dashboard
-
-*(Add your Tableau Public link here)*
-
----
-
 ## 📢 Conclusion
 
 This dashboard demonstrates how interactive visualizations can help analyze business performance and support data-driven decision-making.
